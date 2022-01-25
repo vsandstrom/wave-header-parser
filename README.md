@@ -4,4 +4,6 @@ Parses the Broadcast Extension ('bext') chunk in the header of the wavefile if t
 
 The program takes a valid wave-file name as input. 
 
-ARGV : \< ./wave-parser \> \< file-name (including '.wav') \>
+```bash
+./wave-parser <file-name (including '.wav')>
+
